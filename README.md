@@ -18,3 +18,4 @@ Jumlah order dengan status Complete yang tercatat adalah 80.000 order
 ### 2. .....
 
 ## Key Takeaways
+
